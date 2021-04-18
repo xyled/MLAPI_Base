@@ -1,5 +1,5 @@
 # MLAPI_Base
-Basic multiplayer project using MLAPI
+Basic multiplayer project using MLAPI. Uses Connection Approval and manual spawning of clients.
 
 You can start a Server using the PC version, this will launch the project, click Server and a server will be started. You can then join the server. All players are visible on the server.
 
